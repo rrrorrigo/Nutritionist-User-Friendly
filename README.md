@@ -18,6 +18,7 @@ I want to challenge myself and one of my main goals is to build the entire back-
 	- [x] Create Database
 	- [x] Create Models
 	- [ ] Make the connection with front-end
+        - [ ] Make the API
 
 ## Page Layout
 ### Welcome Page
